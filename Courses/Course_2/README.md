@@ -9,11 +9,11 @@ Instructors:
 Courses:
   - "2 - Java Programming: Solving Problems with Software"
 Modules:
-  - 2.1. - Introduction to the Course
-  - 2.2. - Fundamental Java Syntax and Semantics
-  - 2.3. - Strings in Java
-  - 2.4. - CSV Files and Basic Statistics in Java
-  - "2.5. - MiniProject: Baby Names"
+  - 2.1 - Introduction to the Course
+  - 2.2 - Fundamental Java Syntax and Semantics
+  - 2.3 - Strings in Java
+  - 2.4 - CSV Files and Basic Statistics in Java
+  - "2.5 - MiniProject: Baby Names"
 Skills:
   - Computer Programming
 Finish:

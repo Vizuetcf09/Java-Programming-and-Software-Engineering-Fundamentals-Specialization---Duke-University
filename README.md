@@ -28,7 +28,7 @@ Skills:
   - Web Development
 Finish:
 ---
-This repository contains notes taken from the '[Java Programming and Software Engineering Fundamentals Specialization](https://www.coursera.org/specializations/java-programming)' course by [Duke University](), which is available on the [Coursera](https://www.coursera.org/) platform.
+This repository contains notes taken from the '[Java Programming and Software Engineering Fundamentals Specialization](https://www.coursera.org/specializations/java-programming)' course by [Duke University](https://duke.edu/), which is available on the [Coursera](https://www.coursera.org/) platform.
 
 ## Introduction
 
